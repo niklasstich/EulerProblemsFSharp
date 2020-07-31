@@ -6,8 +6,8 @@ let numbers =
     seq {
         for a in [ 1 .. 1000 ] do
             for b in [ a .. 1000 ] do
-                for c in [ b .. 1000 ] do
-                    if a + b + c = 1000 then yield (a, b, c)
+                let c = 1000 - a - b
+                if c > 0 && c>b then yield (a, b, c)
     }
 let product nums =
     let (a,b,c) = nums
