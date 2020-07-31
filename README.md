@@ -1,4 +1,7 @@
 # EulerProblemsFSharp
+
+![.NET Core](https://github.com/niklasstich/EulerProblemsFSharp/workflows/.NET%20Core/badge.svg)
+
 An implementation of the euler problems in F#.
 The problems can be found [here](https://projecteuler.net/archives).
 
