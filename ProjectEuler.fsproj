@@ -6,7 +6,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+        <Compile Include="Program.fs" />
+        <None Include="Solutions1-10\Problem0001.fsx" />
+        <None Include="Solutions1-10\Problem0002.fsx" />
+        <None Include="Solutions1-10\Problem0003.fsx" />
+        <None Include="Solutions1-10\Problem0004.fsx" />
+        <None Include="Solutions1-10\Problem0005.fsx" />
     </ItemGroup>
 
 </Project>
