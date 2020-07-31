@@ -14,6 +14,10 @@
         <None Include="Solutions1-10\Problem0005.fsx" />
         <None Include="Solutions1-10\Problem0006.fsx" />
         <None Include="Solutions1-10\Problem0007.fsx" />
+        <None Include="Solutions1-10\Problem0008.fsx" />
+        <Content Include="Solutions1-10\Problem0008.txt" />
+        <None Include="Solutions1-10\Problem0009.fsx" />
+        <None Include="Solutions1-10\Problem0010.fsx" />
     </ItemGroup>
 
 </Project>
