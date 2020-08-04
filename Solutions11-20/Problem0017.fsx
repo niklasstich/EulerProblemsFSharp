@@ -36,17 +36,18 @@ let tensToWord n =
     | 7 -> "seventy"
     | 8 -> "eighty"
     | 9 -> "ninety"
+    | _ -> failwith "invalid pattern"
 let hundredGroupToWord n =
-    match n with
-    |
+    digitToWord n + " hundred"
 let thousandGroupToWord n =
-    0
+    digitToWord n + " thousand"
 let numToWord n =
     //get number of thousands, hundreds, tens and single digit
     let finalDigit = n % 10
     let tens = (n/10)%10
     let hundreds = (n/100)%10
     let thousands = (n/1000)%10
+    
     match tens with
     | 1 -> 
     | _ -> 
