@@ -1,4 +1,4 @@
-# EulerProblemsFSharp
+# ProjectEulerFSharp
 
 ![.NET Core](https://github.com/niklasstich/EulerProblemsFSharp/workflows/.NET%20Core/badge.svg)
 
