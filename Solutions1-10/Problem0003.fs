@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0003 =
     open System
 
     let Problem3 =

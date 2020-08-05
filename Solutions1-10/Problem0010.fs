@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0010 =
     open System
 
     let factors n =

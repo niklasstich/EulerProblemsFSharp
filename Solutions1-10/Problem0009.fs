@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0009 =
     let checkPythagoreanTriplet nums =
         match nums with
         | (a, b, c) -> a * a + b * b = c * c

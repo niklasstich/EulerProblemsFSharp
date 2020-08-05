@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0002 =
     let Problem2 =
         let fibonacciSeq = Seq.unfold (fun (current, next) -> Some(current, (next, current + next))) (0, 1)
         fibonacciSeq

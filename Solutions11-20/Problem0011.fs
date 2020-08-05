@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0011 =
     open System.IO
 
     let input = File.ReadAllLines("Solutions11-20/Problem0011.txt")

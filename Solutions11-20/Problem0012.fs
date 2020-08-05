@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0012 =
     open System
 
     let triangleNumber n =

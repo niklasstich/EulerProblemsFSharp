@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0013 =
 
     open System.IO
     open System.Numerics

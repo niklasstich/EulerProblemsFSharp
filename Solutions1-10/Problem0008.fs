@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0008 =
     open System.IO
 
     let product nums = nums |> Seq.fold (fun accumulator num -> accumulator * num) 1L

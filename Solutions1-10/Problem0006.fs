@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0006 =
     let sumOfSquares (numbers) =
         numbers
         |> Seq.map (fun i -> i * i)

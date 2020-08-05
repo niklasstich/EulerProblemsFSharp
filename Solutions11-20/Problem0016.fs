@@ -2,7 +2,7 @@
 
 namespace ProjectEuler
 
-module Problems =
+module Problem0016 =
 
     open System.Numerics
 

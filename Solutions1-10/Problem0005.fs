@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0005 =
     let Problem5 =
         let divisors = [ 1 .. 20 ]
         let isEvenlyDivisible divs num =

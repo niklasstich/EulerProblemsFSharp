@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0004 =
     open System.Linq
 
     let Problem4 =

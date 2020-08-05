@@ -1,6 +1,6 @@
 namespace ProjectEuler
 
-module Problems =
+module Problem0001 =
     let Problem1 =
         let fizzbuzz len =
             Seq.unfold (fun state ->

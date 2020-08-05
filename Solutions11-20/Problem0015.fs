@@ -5,7 +5,7 @@
 // Or 40!/(20!*(40-20)!) or 40!/(20!*20!)
 namespace ProjectEuler
 
-module Problems =
+module Problem0015 =
     open System.Numerics
 
     let factorial n =
