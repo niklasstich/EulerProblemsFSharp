@@ -6,26 +6,32 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Compile Include="Solutions1-10\Problem0001.fs" />
+        <Compile Include="Solutions1-10\Problem0002.fs" />
+        <Compile Include="Solutions1-10\Problem0003.fs" />
+        <Compile Include="Solutions1-10\Problem0004.fs" />
+        <Compile Include="Solutions1-10\Problem0005.fs" />
+        <Compile Include="Solutions1-10\Problem0006.fs" />
+        <Compile Include="Solutions1-10\Problem0007.fs" />
+        <Compile Include="Solutions1-10\Problem0008.fs" />
+        <Content Include="Solutions1-10\Problem0008.txt">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Compile Include="Solutions1-10\Problem0009.fs" />
+        <Compile Include="Solutions1-10\Problem0010.fs" />
+        <Compile Include="Solutions11-20\Problem0011.fs" />
+        <Content Include="Solutions11-20\Problem0011.txt">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Compile Include="Solutions11-20\Problem0012.fs" />
+        <Compile Include="Solutions11-20\Problem0013.fs" />
+        <Content Include="Solutions11-20\Problem0013.txt">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Compile Include="Solutions11-20\Problem0014.fs" />
+        <Compile Include="Solutions11-20\Problem0015.fs" />
+        <Compile Include="Solutions11-20\Problem0016.fs" />
         <Compile Include="Program.fs" />
-        <None Include="Solutions1-10\Problem0001.fsx" />
-        <None Include="Solutions1-10\Problem0002.fsx" />
-        <None Include="Solutions1-10\Problem0003.fsx" />
-        <None Include="Solutions1-10\Problem0004.fsx" />
-        <None Include="Solutions1-10\Problem0005.fsx" />
-        <None Include="Solutions1-10\Problem0006.fsx" />
-        <None Include="Solutions1-10\Problem0007.fsx" />
-        <None Include="Solutions1-10\Problem0008.fsx" />
-        <Content Include="Solutions1-10\Problem0008.txt" />
-        <None Include="Solutions1-10\Problem0009.fsx" />
-        <None Include="Solutions1-10\Problem0010.fsx" />
-        <None Include="Solutions11-20\Problem0011.fsx" />
-        <Content Include="Solutions11-20\Problem0011.txt" />
-        <None Include="Solutions11-20\Problem0012.fsx" />
-        <None Include="Solutions11-20\Problem0013.fsx" />
-        <Content Include="Solutions11-20\Problem0013.txt" />
-        <None Include="Solutions11-20\Problem0014.fsx" />
-        <None Include="Solutions11-20\Problem0015.fsx" />
-        <None Include="Solutions11-20\Problem0016.fsx" />
     </ItemGroup>
 
 </Project>
