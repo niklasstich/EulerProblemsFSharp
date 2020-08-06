@@ -32,6 +32,8 @@
         <Compile Include="Solutions11-20\Problem0015.fs" />
         <Compile Include="Solutions11-20\Problem0016.fs" />
         <Compile Include="Solutions11-20\Problem0017.fs" />
+        <Compile Include="Solutions11-20\Problem0018.fs" />
+        <Content Include="Solutions11-20\Problem0018.txt" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
