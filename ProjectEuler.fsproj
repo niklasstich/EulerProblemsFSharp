@@ -16,25 +16,27 @@
         <Compile Include="Solutions1-10\Problem0007.fs" />
         <Compile Include="Solutions1-10\Problem0008.fs" />
         <Content Include="Solutions1-10\Problem0008.txt">
-          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
         <Compile Include="Solutions1-10\Problem0009.fs" />
         <Compile Include="Solutions1-10\Problem0010.fs" />
         <Compile Include="Solutions11-20\Problem0011.fs" />
         <Content Include="Solutions11-20\Problem0011.txt">
-          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
         <Compile Include="Solutions11-20\Problem0012.fs" />
         <Compile Include="Solutions11-20\Problem0013.fs" />
         <Content Include="Solutions11-20\Problem0013.txt">
-          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
         <Compile Include="Solutions11-20\Problem0014.fs" />
         <Compile Include="Solutions11-20\Problem0015.fs" />
         <Compile Include="Solutions11-20\Problem0016.fs" />
         <Compile Include="Solutions11-20\Problem0017.fs" />
         <Compile Include="Solutions11-20\Problem0018.fs" />
-        <Content Include="Solutions11-20\Problem0018.txt" />
+        <Content Include="Solutions11-20\Problem0018.txt">
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </Content>
         <Compile Include="Test\TestSolutions1-10.fs" />
         <Compile Include="Test\TestSolutions11-20.fs" />
         <Compile Include="Program.fs" />

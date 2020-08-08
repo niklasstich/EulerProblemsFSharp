@@ -1,6 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5261cdc_002D8d33_002D4622_002Daab7_002D6a294e9349b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="TestClass" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::56736241-ECCD-40F9-AF46-327EB8DD085D::.NETCoreApp,Version=v3.1::ProjectEuler.Test.TestSolutions1_10+TestClassSolutions1_10&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;Project Location="/home/cluuuuub/Code/EulerProblemsFSharp" Presentation="&amp;lt;ProjectEuler&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
