@@ -11,7 +11,7 @@ module Problem0007 =
         factors n
         |> Seq.length = 0
 
-    let Problem6 =
+    let Problem7 =
         //filter all numbers divisible by 2 (except 2 itself because it is indeed prime) for performance reasons
         let primes =
             Seq.unfold (fun x -> Some(x, x + 1)) 2

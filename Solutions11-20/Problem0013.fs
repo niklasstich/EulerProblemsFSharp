@@ -12,4 +12,7 @@ module Problem0013 =
             |> Seq.sum
         sum.ToString().ToCharArray()
         |> Seq.take 10
-        |> Seq.toList
+        |> Seq.toArray
+        |> string
+        |> int64
+        
