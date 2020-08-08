@@ -37,6 +37,7 @@
         <Content Include="Solutions11-20\Problem0018.txt">
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
+        <Compile Include="Solutions11-20\Problem0019.fs" />
         <Compile Include="Test\TestSolutions1-10.fs" />
         <Compile Include="Test\TestSolutions11-20.fs" />
         <Compile Include="Program.fs" />
