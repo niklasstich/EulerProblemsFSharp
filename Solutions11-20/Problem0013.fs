@@ -10,6 +10,7 @@ module Problem0013 =
             File.ReadAllLines("Solutions11-20/Problem0013.txt")
             |> Seq.map (fun i -> BigInteger.Parse i)
             |> Seq.sum
-        sum.ToString().ToCharArray()
-        |> Seq.take 10
-        |> Seq.toList
+        sum.ToString() |> Seq.take 10 |> System.String.Concat |> int64
+        
+        
+        
