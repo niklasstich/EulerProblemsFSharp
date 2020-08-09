@@ -44,3 +44,7 @@ type TestClassSolutions() =
     [<Test>]
     member this.TestSolution19() =
         Assert.AreEqual(171, Problem0019.Problem19)
+
+    [<Test>]
+    member this.TestSolution20() =
+        Assert.AreEqual(648, Problem0020.Problem20)
