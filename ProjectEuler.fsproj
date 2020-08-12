@@ -3,10 +3,12 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GenerateProgramFile>false</GenerateProgramFile>
     </PropertyGroup>
 
     <ItemGroup>
         <Content Include="README.md" />
+        <Compile Include="Common\Primality.fs" />
         <Compile Include="Solutions1-10\Problem0001.fs" />
         <Compile Include="Solutions1-10\Problem0002.fs" />
         <Compile Include="Solutions1-10\Problem0003.fs" />
@@ -39,8 +41,11 @@
         </Content>
         <Compile Include="Solutions11-20\Problem0019.fs" />
         <Compile Include="Solutions11-20\Problem0020.fs" />
+        <Compile Include="Solutions51-60\Problem0051.fs" />
         <Compile Include="Test\TestSolutions1-10.fs" />
         <Compile Include="Test\TestSolutions11-20.fs" />
+        <Compile Include="Test\TestSolutions51-60.fs" />
+        
         <Compile Include="Program.fs" />
     </ItemGroup>
 
